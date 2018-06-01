@@ -14,7 +14,7 @@
 
 <a name="index_description"></a><h2>Description</h2>
 
-The PHP class **rstoetter\\ctabletoscript\\cTableToClass** examines the fields of a table of a SQL database and generates a PHP file, that contains a PHP class, which can be used for common actions (ADD, EDIT, DELETE, DELETE CASCADING) on the table.
+The PHP class **rstoetter\\ctabletoscript\\cTableToClass** examines the fields of a table of a SQL database and generates a PHP file, that contains a PHP class, which can be used for common actions (ADD, EDIT, DELETE, DELETE CASCADING) executed against the table.
 
 <a name="index_components"></a><h2>Generated Components</h2>
 
@@ -67,7 +67,7 @@ The user classes, provided for your convinience, where you can add functionaliti
 
 <a name="index_classes"></a><h2>Provided Classes</h2>
 
-The class \rstoetter\rstoetter\\ctabletoclass\\\cTableToClass is the main class of the repository rstoetter/ctabletoclass-php.
+The class **\rstoetter\rstoetter\\ctabletoclass\\\cTableToClass** is the main class of the repository **rstoetter/ctabletoclass-php**.
 
 There are no helper classes necessary in order to use the class cTableToClass:
 
@@ -75,7 +75,7 @@ But you will need PHP 7 or later to use this repository
 
 <a name="index_namespaces"></a><h2>Namespace</h2>
 
-Use the [namespace](http://php.net/manual/en/language.namespaces.php) **rstoetter\rstoetter\\ctabletoclass\\** in order to access the classes provided by the repository rstoetter/ctabletoclass-php.
+Use the [namespace](http://php.net/manual/en/language.namespaces.php) **rstoetter\rstoetter\\ctabletoclass\\** in order to access the classes provided by the repository 'rstoetter/ctabletoclass-php'.
 
 <a name="index_installation"></a><h2>Installation</h2>
 
