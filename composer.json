@@ -1,0 +1,25 @@
+
+{
+    "name": "rstoetter/ctabletoclass-php",
+    "description": "A PHP code generator, which examines the fields of a table of a SQL database and generates a PHP file, that contains a PHP class, which can be used for common actions (ADD, EDIT, DELETE, DELETE CASCADING) on the table.",
+    "license": "MIT",
+    "keywords": ["php","code-generator","generator","sql","table","sql-database","mysql"],
+    "authors": [
+        {
+            "name": "Rainer Stötter",
+            "email": "rstoetter@users.sourceforge.net"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "rstoetter\\ctabletoclass\\": "src"
+        }
+    }
+}
+
