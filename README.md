@@ -14,7 +14,7 @@
 
 <a name="index_description"></a><h2>Description</h2>
 
-The PHP class rstoetter\\ctabletoscript\\cTableToClass examines the fields of a table of a SQL database and generates a PHP file, that contains a PHP class, which can be used for common actions (ADD, EDIT, DELETE, DELETE CASCADING) on the table.
+The PHP class **rstoetter\\ctabletoscript\\cTableToClass** examines the fields of a table of a SQL database and generates a PHP file, that contains a PHP class, which can be used for common actions (ADD, EDIT, DELETE, DELETE CASCADING) on the table.
 
 <a name="index_components"></a><h2>Generated Components</h2>
 
